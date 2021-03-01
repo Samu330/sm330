@@ -12,6 +12,19 @@
     "start": "node index.js",
     "test": "node test.js"
   },
+  "keywords": [
+    "termux-whatsapp-bot",
+    "whatsapp-bot",
+    "whatsapp",
+    "js-whatsapp"
+  ],
+  "homepage": "https://github.com/Samu330/sm330",
+  "author": {
+    "name": "Samu330"
+  },
+  "repository": {
+    "url": "https://github.com/Samu330/sm330"
+  },
   "license": "GPL3",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
