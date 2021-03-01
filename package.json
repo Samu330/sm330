@@ -1,13 +1,12 @@
 {
-  "name": "wabot-aq",
-  "version": "1.2.8",
-  "description": "Customizable WhatsApp Bot",
+  "name": "smBot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
     "lib": "lib",
     "src": "src",
-    "plugins": "plugins"
   },
   "scripts": {
     "start": "node index.js",
@@ -19,15 +18,15 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/Samu330/sm330",
   "author": {
-    "name": "Nurutomo"
+    "name": "Samu330"
   },
   "repository": {
-    "url": "https://github.com/Nurutomo/wabot-aq.git"
+    "url": "https://github.com/Samu330/sm330"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/Samu330/sm330"
   },
   "license": "GPL3",
   "dependencies": {
