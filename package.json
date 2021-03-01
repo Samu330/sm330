@@ -1,17 +1,34 @@
 {
-  "name": "sm330-bot",
-  "version": "1.0.0",
-  "description": "whatsapp bot custom",
+  "name": "wabot-aq",
+  "version": "1.2.8",
+  "description": "Customizable WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
     "lib": "lib",
+    "src": "src",
+    "plugins": "plugins"
   },
   "scripts": {
     "start": "node index.js",
     "test": "node test.js"
   },
-  "author": "Samu330",
+  "keywords": [
+    "termux-whatsapp-bot",
+    "whatsapp-bot",
+    "whatsapp",
+    "js-whatsapp"
+  ],
+  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "author": {
+    "name": "Nurutomo"
+  },
+  "repository": {
+    "url": "https://github.com/Nurutomo/wabot-aq.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+  },
   "license": "GPL3",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
