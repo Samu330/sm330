@@ -13,3 +13,7 @@ let path = require('path')
 let util = require('util')
 let { spawnSync } = require('child_process')
 let WAConnection = simple.WAConnection(_WAConnection)
+
+global.owner = ['529984907794@s.whatsapp.net'] // Tu numero aqui
+global.mods = ['529984907794@s.whatsapp.net'] 
+global.prems = ['529984907794@s.whatsapp.net']
